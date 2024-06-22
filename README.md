@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Hansiiiiii
-- 👀 I’m interested in a person that doesn't have a interest about me.
+- 👋 Hi, I’m Hans Anthony
+- 👀 I’m interested in a person that doesn't have a interest in me.
 - 🌱 I’m currently learning programming.
-- 💞️ I love studying.
+- 💞️ I love her.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: The older you get your age gets bigger.
-
-<!---
-Hansiiiiii/Hansiiiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
