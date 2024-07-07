@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning programming.
 - 💞️ I love her.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: The older you get your age gets bigger.
